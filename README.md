@@ -21,4 +21,6 @@ To build a trustworthy ecosystem for news verification in regional languages of 
 - Expansion to other languages and regions globally
 
 ## Contract Details
-<!-- Fill this section manually -->
+0xb638D32840D7E9a7794Bf27fe0b42017824ccac8
+<img width="1456" height="715" alt="image" src="https://github.com/user-attachments/assets/9397eea2-0cbb-4776-a378-0e54b9de0052" />
+
